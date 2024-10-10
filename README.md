@@ -11,8 +11,9 @@ This repository contains Python scripts developed to solve coding challenges pro
 - `5-inverte-string` : A script that reverses the characters of a string provided by the user without using built-in functions.
 
 ## Installation
-To run these scripts, you need to have Python installed. You can download it from [python.org](https://www.python.org/).
-
+To run these scripts on your local machine, you'll need to have Python installed. 
+- Download Python - [python.org](https://www.python.org/)
+  
 ## Usage
 1. Clone the repository to your local machine.
 2. Navigate to the directory where the script you want to run is located.
